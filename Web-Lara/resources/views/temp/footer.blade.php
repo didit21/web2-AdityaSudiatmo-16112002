@@ -1,0 +1,1 @@
+<div id="footer"> copyright aditya.sudiatmo 16112002 @2017</div>
